@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.user-input {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+}
+</style>
+</head>
+<body>
+<div class="user-input">
+<form method="post" action="" name="signup-form">
+    <div class="form-element">
+        <label><b>Usuario</b></label> <br>
+        <input type="text" placeholder="Ingrese usuario" name="username" pattern="[a-zA-Z0-9]+" required />
+    </div>
+    <div class="form-element">
+        <label>Contraseña</label><br>
+        <input type="password" placeholder="Ingrese contraseña" name="password" required />
+    </div>
+    <button type="submit" name="register" value="register">Ingresar</button>
+</form>
+</div>
+</body>
+</html>
