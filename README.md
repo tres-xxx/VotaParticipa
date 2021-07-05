@@ -15,5 +15,5 @@ Es importante, para el correcto funcionamiento de los programadores en la base d
 ## Recursos utilizados
 * xampp: Versión 3.3.0 (De allí se hace uso del servidor Apache y la base de datos mysql)
 * jquery: Versión 3.6.0
-* Chart.js: Versión 2.9.3
+* Chart.js: Versión 2.9.3<br/>
 No incluido como un recurso, pero si como referencia constante a dudas y modos de implementación, se utilizó en general los tutoriales y comentarios publicados en [w3schools](https://www.w3schools.com/) y en [stackoverflow](https://es.stackoverflow.com/).
